@@ -5,7 +5,7 @@
 ## 1. Verantwortlicher
 Circlyfox App  
 Österreich  
-Kontakt: circlyfox@gmail.com
+Kontakt: floriankepl@gmail.com
 
 ## 2. Welche Daten wir sammeln
 - **E-Mail Adresse** — für die Registrierung
@@ -34,4 +34,4 @@ Zum Löschen deines Accounts schreib uns: circlyfox@gmail.com
 - **OpenStreetMap** — Kartendaten (keine personenbezogenen Daten)
 
 ## 7. Kontakt
-Bei Fragen: circlyfox@gmail.com
+Bei Fragen: floriankepl@gmail.com
