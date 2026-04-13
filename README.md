@@ -27,7 +27,7 @@ Du hast das Recht auf:
 - Löschung deines Accounts
 - Export deiner Daten
 
-Zum Löschen deines Accounts schreib uns: circlyfox@gmail.com
+Zum Löschen deines Accounts schreib uns: floriankepl@gmail.com
 
 ## 6. Drittanbieter
 - **Supabase** — Datenbankservice (DSGVO-konform)
